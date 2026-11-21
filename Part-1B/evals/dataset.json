@@ -1,0 +1,10 @@
+{
+  "total_cases": 17,
+  "categories": [
+    "normal",
+    "boundary",
+    "ambiguous",
+    "missing_information",
+    "adversarial"
+  ]
+}
